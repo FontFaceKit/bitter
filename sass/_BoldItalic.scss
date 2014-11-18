@@ -1,7 +1,7 @@
 /* BEGIN Bold Italic */
 @font-face {
-  font-family: 'Open Sans';
-  @include fontdef($OpenSansPath, $OpenSansVersion, "BoldItalic");
+  font-family: 'Bitter';
+  @include fontdef($BitterPath, $BitterVersion, "BoldItalic");
   font-weight: bold;
   font-style: italic;
 }

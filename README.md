@@ -1,16 +1,16 @@
-# Open Sans @font-face kit
+# Bitter @font-face kit
 
 I split the SASS file, so the developer can decide which fonts and styles he really needs.
 
 Installable via [Bower](http://twitter.github.com/bower/):
 ```
-bower install open-sans-fontface
+bower install bitter-fontface
 ```
 
 ## Demo
-__Our repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
+__Our repository:__ [http://fontfacekit.github.com/bitter](http://fontfacekit.github.com/bitter)
 
-__Google Web Fonts:__ [http://www.google.com/fonts/specimen/Open+Sans](http://www.google.com/fonts/specimen/Open+Sans)
+__Google Web Fonts:__ [http://www.google.com/fonts/specimen/Bitter](http://www.google.com/fonts/specimen/Bitter)
 
 
 ## Maintain your own font-face in FontFaceKit
