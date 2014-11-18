@@ -1,7 +1,7 @@
 /* BEGIN Bold Italic */
 @font-face {
   font-family: 'Bitter';
-  @include fontdef($BitterPath, $BitterVersion, "BoldItalic");
+  @include fontdef($BitterPath, "BoldItalic");
   font-weight: bold;
   font-style: italic;
 }

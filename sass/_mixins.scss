@@ -1,7 +1,7 @@
-@mixin fontdef($BitterPath, $BitterVersion, $FontType:"Regular") {
-  src:  url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.eot?v=#{$BitterVersion}');
-  src:  url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.eot?#iefix&v=#{$BitterVersion}') format('embedded-opentype'),
-        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.woff?v=#{$BitterVersion}') format('woff'),
-        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.ttf?v=#{$BitterVersion}') format('truetype'),
-        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.svg?v=#{$BitterVersion}#BitterBold') format('svg');
+@mixin fontdef($BitterPath, $FontType:"Regular") {
+  src:  url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.eot');
+  src:  url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.eot?#iefix') format('embedded-opentype'),
+        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.woff') format('woff'),
+        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.ttf') format('truetype'),
+        url('#{$BitterPath}/#{$FontType}/Bitter-#{$FontType}.svg#BitterBold') format('svg');
 }

@@ -1,7 +1,7 @@
 /* BEGIN Regular */
 @font-face {
   font-family: 'Bitter';
-  @include fontdef($BitterPath, $BitterVersion, "Regular");
+  @include fontdef($BitterPath, "Regular");
   font-weight: normal;
   font-style: normal;
 }
