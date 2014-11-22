@@ -2,11 +2,11 @@
   "name": "bitter-fontface",
   "version": "0.1.2",
   "main": "./bitter.css",
-  "homepage": "https://github.com/stefanmaric/bitter-fontface",
+  "homepage": "https://github.com/FontFaceKit/bitter",
   "authors": [
     "Stefan Maric <me@stefanmaric.com>"
   ],
-  "description": "The Bitter fontface",
+  "description": "The Bitter fontface kit",
   "keywords": [
     "font",
     "bitter",
