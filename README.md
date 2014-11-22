@@ -8,7 +8,7 @@ bower install bitter-fontface
 ```
 
 ## Demo
-__Our repository:__ [http://stefanmaric.github.com/bitter](http://stefanmaric.github.com/bitter)
+__Our repository:__ [http://stefanmaric.github.com/bitter-fontface](http://stefanmaric.github.com/bitter-fontface)
 
 __Google Web Fonts:__ [http://www.google.com/fonts/specimen/Bitter](http://www.google.com/fonts/specimen/Bitter)
 
