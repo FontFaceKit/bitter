@@ -7,6 +7,25 @@ Installable via [Bower](http://twitter.github.com/bower/):
 bower install bitter-fontface
 ```
 
+Simply link into your HTML:
+```html
+<link rel="stylesheet" href="bower_components/bitter-fontface/bitter.css">
+```
+
+And start using it:
+```css
+body { font-family: Bitter, serif; }
+```
+
+Bold and italic:
+```css
+strong {
+    font-family: Bitter, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+```
+
 ## Demo
 __Our repository:__ [http://stefanmaric.github.com/bitter-fontface](http://stefanmaric.github.com/bitter-fontface)
 
