@@ -9,9 +9,11 @@
   "description": "The Bitter fontface",
   "keywords": [
     "font",
-    "bitter"
+    "bitter",
+    "kit",
+    "font-face"
   ],
-  "license": "Apache License version 2.0",
+  "license": "SIL Open Font License v1.10",
   "ignore": [
     "**/.*",
     "node_modules",
