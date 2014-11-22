@@ -27,7 +27,7 @@ strong {
 ```
 
 ## Demo
-__Our repository:__ [http://fontfacekit.github.com/bitter-fontface](http://fontfacekit.github.com/bitter-fontface)
+__Our repository:__ [http://fontfacekit.github.com/bitter](http://fontfacekit.github.com/bitter)
 
 __Google Web Fonts:__ [http://www.google.com/fonts/specimen/Bitter](http://www.google.com/fonts/specimen/Bitter)
 
