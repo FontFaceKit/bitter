@@ -1,7 +1,7 @@
 {
   "name": "bitter-fontface",
   "version": "0.1.3",
-  "main": "./fonts/**/*.{woff,svg,eot,ttf}"
+  "main": "./fonts/**/*.{woff,svg,eot,ttf}",
   "homepage": "https://github.com/FontFaceKit/bitter",
   "authors": [
     "Stefan Maric <me@stefanmaric.com>"
