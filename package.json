@@ -1,0 +1,18 @@
+{
+  "name": "bitter-font",
+  "version": "0.0.1",
+  "description": "The Bitter fontface kit",
+  "author": "Stefan Maric <me@stefanmaric.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FontFaceKit/bitter.git"
+  },
+  "license": "SIL Open Font License v1.10",
+  "bugs": {
+    "url": "https://github.com/FontFaceKit/bitter/issues"
+  },
+  "homepage": "https://github.com/FontFaceKit/bitter#readme"
+}
